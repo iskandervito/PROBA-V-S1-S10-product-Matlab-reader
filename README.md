@@ -76,7 +76,8 @@ In the zip folder, you will find the following folder/files:
 
 Please contact us in case of bug/issue or for suggestions/improvements
 * [Tutorial video](https://www.youtube.com/watch?v=GRGLcG_z5iE) 
-[![Alt text for your video](https://www.youtube.com/watch?v=GRGLcG_z5iE/0.jpg)](https://www.youtube.com/watch?v=GRGLcG_z5iE)
+
+<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/GRGLcG_z5iE?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## License
