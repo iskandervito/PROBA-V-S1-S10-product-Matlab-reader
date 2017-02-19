@@ -65,8 +65,6 @@ In the zip folder, you will find the following folder/files:
 
 * Enjoy
 
-- Run the matlab script.
-
 ## Built With
 
 * [h5dump](https://support.hdfgroup.org/HDF5/docNewFeatures/FileSpace/h5dump.htm) - Tool to dump HDF5 file into a binary file
