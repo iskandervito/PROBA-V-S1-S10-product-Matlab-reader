@@ -32,7 +32,7 @@ In the zip folder, you will find the following folder/files:
   * ./cfg/layers.txt : ascii file for user HDF5 layer'selection
 
 
-## Running the S2_tilefinder scripts
+## Getting started
 
 * Under the cfg folder, use the layers.txt file to select the layers that need to be extracted from the HDF5 PROBA-V product. To do that, add simply this caracter # behind the layer to be ignored (e.g. the layers.txt configuration below will extract only the TOA images from the HDF5 products, all other layers (e.g  'LEVEL3/GEOMETRY/SAA') are ignored.
 
